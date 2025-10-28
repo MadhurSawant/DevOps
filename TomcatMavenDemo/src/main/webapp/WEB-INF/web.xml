@@ -1,1 +1,0 @@
-<web-app xmlns="http://java.sun.com/xml/ns/javaee"echo          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"echo          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"echo          version="3.0">echo     <display-name>TomcatMavenDemo</display-name>echo </web-app>
